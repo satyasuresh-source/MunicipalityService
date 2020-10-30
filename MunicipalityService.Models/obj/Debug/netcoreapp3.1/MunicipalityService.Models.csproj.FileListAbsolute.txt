@@ -1,0 +1,9 @@
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Models\bin\Debug\netcoreapp3.1\MunicipalityService.Models.deps.json
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Models\bin\Debug\netcoreapp3.1\MunicipalityService.Models.dll
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Models\bin\Debug\netcoreapp3.1\MunicipalityService.Models.pdb
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Models\obj\Debug\netcoreapp3.1\MunicipalityService.Models.AssemblyInfoInputs.cache
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Models\obj\Debug\netcoreapp3.1\MunicipalityService.Models.AssemblyInfo.cs
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Models\obj\Debug\netcoreapp3.1\MunicipalityService.Models.dll
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Models\obj\Debug\netcoreapp3.1\MunicipalityService.Models.pdb
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Models\obj\Debug\netcoreapp3.1\MunicipalityService.Models.csprojAssemblyReference.cache
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Models\obj\Debug\netcoreapp3.1\MunicipalityService.Models.csproj.CoreCompileInputs.cache

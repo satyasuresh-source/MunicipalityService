@@ -1,0 +1,8 @@
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Models\bin\Debug\netstandard2.0\MunicipalityService.Models.deps.json
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Models\bin\Debug\netstandard2.0\MunicipalityService.Models.dll
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Models\bin\Debug\netstandard2.0\MunicipalityService.Models.pdb
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Models\obj\Debug\netstandard2.0\MunicipalityService.Models.AssemblyInfoInputs.cache
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Models\obj\Debug\netstandard2.0\MunicipalityService.Models.AssemblyInfo.cs
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Models\obj\Debug\netstandard2.0\MunicipalityService.Models.csproj.CoreCompileInputs.cache
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Models\obj\Debug\netstandard2.0\MunicipalityService.Models.dll
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Models\obj\Debug\netstandard2.0\MunicipalityService.Models.pdb
