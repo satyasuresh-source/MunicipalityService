@@ -1,0 +1,15 @@
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.DataAccess\bin\Debug\netcoreapp3.1\MunicipalityService.DataAccess.deps.json
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.DataAccess\bin\Debug\netcoreapp3.1\MunicipalityService.DataAccess.runtimeconfig.json
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.DataAccess\bin\Debug\netcoreapp3.1\MunicipalityService.DataAccess.runtimeconfig.dev.json
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.DataAccess\bin\Debug\netcoreapp3.1\MunicipalityService.DataAccess.dll
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.DataAccess\bin\Debug\netcoreapp3.1\MunicipalityService.DataAccess.pdb
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.DataAccess\bin\Debug\netcoreapp3.1\MunicipalityService.Models.dll
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.DataAccess\bin\Debug\netcoreapp3.1\MunicipalityService.Models.pdb
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.DataAccess\obj\Debug\netcoreapp3.1\MunicipalityService.DataAccess.csprojAssemblyReference.cache
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.DataAccess\obj\Debug\netcoreapp3.1\MunicipalityService.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.DataAccess\obj\Debug\netcoreapp3.1\MunicipalityService.DataAccess.AssemblyInfo.cs
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.DataAccess\obj\Debug\netcoreapp3.1\MunicipalityService.DataAccess.csproj.CopyComplete
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.DataAccess\obj\Debug\netcoreapp3.1\MunicipalityService.DataAccess.dll
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.DataAccess\obj\Debug\netcoreapp3.1\MunicipalityService.DataAccess.pdb
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.DataAccess\obj\Debug\netcoreapp3.1\MunicipalityService.DataAccess.genruntimeconfig.cache
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.DataAccess\obj\Debug\netcoreapp3.1\MunicipalityService.DataAccess.csproj.CoreCompileInputs.cache
