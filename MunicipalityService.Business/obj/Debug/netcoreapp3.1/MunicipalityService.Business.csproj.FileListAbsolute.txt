@@ -1,0 +1,14 @@
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Business\bin\Debug\netcoreapp3.1\MunicipalityService.Business.deps.json
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Business\bin\Debug\netcoreapp3.1\MunicipalityService.Business.dll
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Business\bin\Debug\netcoreapp3.1\MunicipalityService.Business.pdb
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Business\bin\Debug\netcoreapp3.1\MunicipalityService.DataAccess.dll
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Business\bin\Debug\netcoreapp3.1\MunicipalityService.Models.dll
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Business\bin\Debug\netcoreapp3.1\MunicipalityService.DataAccess.pdb
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Business\bin\Debug\netcoreapp3.1\MunicipalityService.Models.pdb
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Business\obj\Debug\netcoreapp3.1\MunicipalityService.Business.csprojAssemblyReference.cache
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Business\obj\Debug\netcoreapp3.1\MunicipalityService.Business.AssemblyInfoInputs.cache
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Business\obj\Debug\netcoreapp3.1\MunicipalityService.Business.AssemblyInfo.cs
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Business\obj\Debug\netcoreapp3.1\MunicipalityService.Business.csproj.CoreCompileInputs.cache
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Business\obj\Debug\netcoreapp3.1\MunicipalityService.Business.csproj.CopyComplete
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Business\obj\Debug\netcoreapp3.1\MunicipalityService.Business.dll
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Business\obj\Debug\netcoreapp3.1\MunicipalityService.Business.pdb

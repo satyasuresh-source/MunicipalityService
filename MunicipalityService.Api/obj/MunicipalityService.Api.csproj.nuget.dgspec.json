@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Api\\MunicipalityService.Api.csproj": {}
+    "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Api\\MunicipalityService.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Api\\MunicipalityService.Api.csproj": {
+    "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Api\\MunicipalityService.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Api\\MunicipalityService.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Api\\MunicipalityService.Api.csproj",
         "projectName": "MunicipalityService.Api",
-        "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Api\\MunicipalityService.Api.csproj",
+        "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Api\\MunicipalityService.Api.csproj",
         "packagesPath": "C:\\Users\\Suresh Palepu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Api\\obj\\",
+        "outputPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Business\\MunicipalityService.Business.csproj": {
-                "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Business\\MunicipalityService.Business.csproj"
+              "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Business\\MunicipalityService.Business.csproj": {
+                "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Business\\MunicipalityService.Business.csproj"
               },
-              "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Models\\MunicipalityService.Models.csproj": {
-                "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Models\\MunicipalityService.Models.csproj"
+              "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Models\\MunicipalityService.Models.csproj": {
+                "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Models\\MunicipalityService.Models.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Business\\MunicipalityService.Business.csproj": {
+    "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Business\\MunicipalityService.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Business\\MunicipalityService.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Business\\MunicipalityService.Business.csproj",
         "projectName": "MunicipalityService.Business",
-        "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Business\\MunicipalityService.Business.csproj",
+        "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Business\\MunicipalityService.Business.csproj",
         "packagesPath": "C:\\Users\\Suresh Palepu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Business\\obj\\",
+        "outputPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -121,11 +121,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.DataAccess\\MunicipalityService.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.DataAccess\\MunicipalityService.DataAccess.csproj"
+              "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.DataAccess\\MunicipalityService.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.DataAccess\\MunicipalityService.DataAccess.csproj"
               },
-              "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Models\\MunicipalityService.Models.csproj": {
-                "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Models\\MunicipalityService.Models.csproj"
+              "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Models\\MunicipalityService.Models.csproj": {
+                "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Models\\MunicipalityService.Models.csproj"
               }
             }
           }
@@ -157,14 +157,14 @@
         }
       }
     },
-    "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.DataAccess\\MunicipalityService.DataAccess.csproj": {
+    "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.DataAccess\\MunicipalityService.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.DataAccess\\MunicipalityService.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.DataAccess\\MunicipalityService.DataAccess.csproj",
         "projectName": "MunicipalityService.DataAccess",
-        "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.DataAccess\\MunicipalityService.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.DataAccess\\MunicipalityService.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Suresh Palepu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -183,8 +183,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Models\\MunicipalityService.Models.csproj": {
-                "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Models\\MunicipalityService.Models.csproj"
+              "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Models\\MunicipalityService.Models.csproj": {
+                "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Models\\MunicipalityService.Models.csproj"
               }
             }
           }
@@ -236,14 +236,14 @@
         }
       }
     },
-    "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Models\\MunicipalityService.Models.csproj": {
+    "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Models\\MunicipalityService.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Models\\MunicipalityService.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Models\\MunicipalityService.Models.csproj",
         "projectName": "MunicipalityService.Models",
-        "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Models\\MunicipalityService.Models.csproj",
+        "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Models\\MunicipalityService.Models.csproj",
         "packagesPath": "C:\\Users\\Suresh Palepu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Models\\obj\\",
+        "outputPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -82,3 +82,9 @@ C:\Users\Suresh Palepu\source\repos\MunicipalityService.Api\bin\Debug\netcoreapp
 C:\Users\Suresh Palepu\source\repos\MunicipalityService.Api\obj\Debug\netcoreapp3.1\MunicipalityService.Api.csproj.CoreCompileInputs.cache
 C:\Users\Suresh Palepu\source\repos\MunicipalityService.Api\obj\Debug\netcoreapp3.1\MunicipalityService.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Suresh Palepu\source\repos\MunicipalityService.Api\obj\Debug\netcoreapp3.1\MunicipalityService.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Api\obj\Debug\netcoreapp3.1\MunicipalityService.Api.csprojAssemblyReference.cache
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Api\obj\Debug\netcoreapp3.1\MunicipalityService.Api.AssemblyInfoInputs.cache
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Api\obj\Debug\netcoreapp3.1\MunicipalityService.Api.AssemblyInfo.cs
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Api\obj\Debug\netcoreapp3.1\MunicipalityService.Api.csproj.CoreCompileInputs.cache
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Api\obj\Debug\netcoreapp3.1\MunicipalityService.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Suresh Palepu\Source\Repos\Services\MunicipalityService.Api\obj\Debug\netcoreapp3.1\MunicipalityService.Api.MvcApplicationPartsAssemblyInfo.cache

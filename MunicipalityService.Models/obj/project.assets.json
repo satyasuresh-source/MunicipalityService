@@ -4724,11 +4724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Models\\MunicipalityService.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Models\\MunicipalityService.Models.csproj",
       "projectName": "MunicipalityService.Models",
-      "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Models\\MunicipalityService.Models.csproj",
+      "projectPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Models\\MunicipalityService.Models.csproj",
       "packagesPath": "C:\\Users\\Suresh Palepu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\MunicipalityService\\MunicipalityService.Models\\obj\\",
+      "outputPath": "C:\\Users\\Suresh Palepu\\Source\\Repos\\Services\\MunicipalityService.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
