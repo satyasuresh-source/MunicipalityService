@@ -1,0 +1,4 @@
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Api\obj\Debug\netcoreapp2.2\MunicipalityService.Api.csprojAssemblyReference.cache
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Api\obj\Debug\netcoreapp2.2\MunicipalityService.Api.AssemblyInfoInputs.cache
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Api\obj\Debug\netcoreapp2.2\MunicipalityService.Api.AssemblyInfo.cs
+C:\Users\Suresh Palepu\source\repos\MunicipalityService.Api\obj\Debug\netcoreapp2.2\MunicipalityService.Api.csproj.CoreCompileInputs.cache

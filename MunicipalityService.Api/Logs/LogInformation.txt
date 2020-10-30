@@ -1,0 +1,199 @@
+2020-10-28 01:27:28.006 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.WeatherForecastController.Get (MunicipalityService.Api)"'
+2020-10-28 01:27:29.397 +05:30 [Information] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[MunicipalityService.Api.WeatherForecast] Get()" on controller "MunicipalityService.Api.Controllers.WeatherForecastController" ("MunicipalityService.Api").
+2020-10-28 01:27:29.588 +05:30 [Information] Executing ObjectResult, writing value of type '"MunicipalityService.Api.WeatherForecast[]"'.
+2020-10-28 01:27:30.004 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.WeatherForecastController.Get (MunicipalityService.Api)" in 532.9494ms
+2020-10-28 01:27:30.032 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.WeatherForecastController.Get (MunicipalityService.Api)"'
+2020-10-28 01:27:31.243 +05:30 [Information] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+2020-10-28 01:27:31.274 +05:30 [Information] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"'
+2020-10-28 01:27:31.379 +05:30 [Information] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"'
+2020-10-28 01:28:16.655 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)"'
+2020-10-28 01:28:16.896 +05:30 [Information] Route matched with "{action = \"DocumentUpload\", controller = \"FileAccess\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult DocumentUpload(MunicipalityService.Models.FileAccessRequest)" on controller "MunicipalityService.Api.Controllers.FileAccessController" ("MunicipalityService.Api").
+2020-10-28 01:28:49.041 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)" in 32143.7845ms
+2020-10-28 01:28:49.062 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)"'
+2020-10-28 01:28:51.656 +05:30 [Error] {"error":"Attempted to divide by zero.","stackTrace":""}
+2020-10-28 01:32:16.266 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.WeatherForecastController.Get (MunicipalityService.Api)"'
+2020-10-28 01:32:17.071 +05:30 [Information] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[MunicipalityService.Api.WeatherForecast] Get()" on controller "MunicipalityService.Api.Controllers.WeatherForecastController" ("MunicipalityService.Api").
+2020-10-28 01:32:17.590 +05:30 [Information] Executing ObjectResult, writing value of type '"MunicipalityService.Api.WeatherForecast[]"'.
+2020-10-28 01:32:18.341 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.WeatherForecastController.Get (MunicipalityService.Api)" in 1190.9787ms
+2020-10-28 01:32:18.370 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.WeatherForecastController.Get (MunicipalityService.Api)"'
+2020-10-28 01:32:20.120 +05:30 [Information] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+2020-10-28 01:32:20.200 +05:30 [Information] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"'
+2020-10-28 01:32:20.380 +05:30 [Information] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"'
+2020-10-28 01:32:29.390 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)"'
+2020-10-28 01:32:29.568 +05:30 [Information] Route matched with "{action = \"DocumentUpload\", controller = \"FileAccess\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult DocumentUpload(MunicipalityService.Models.FileAccessRequest)" on controller "MunicipalityService.Api.Controllers.FileAccessController" ("MunicipalityService.Api").
+2020-10-28 01:32:37.345 +05:30 [Information] DocumentUpload
+2020-10-28 01:32:41.984 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)" in 12415.0317ms
+2020-10-28 01:32:41.996 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)"'
+2020-10-28 01:32:44.125 +05:30 [Error] {"error":"Attempted to divide by zero.","stackTrace":""}
+2020-10-28 03:08:41.120 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.WeatherForecastController.Get (MunicipalityService.Api)"'
+2020-10-28 03:08:42.150 +05:30 [Information] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[MunicipalityService.Api.WeatherForecast] Get()" on controller "MunicipalityService.Api.Controllers.WeatherForecastController" ("MunicipalityService.Api").
+2020-10-28 03:08:42.530 +05:30 [Information] Executing ObjectResult, writing value of type '"MunicipalityService.Api.WeatherForecast[]"'.
+2020-10-28 03:08:43.805 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.WeatherForecastController.Get (MunicipalityService.Api)" in 1566.7736ms
+2020-10-28 03:08:43.828 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.WeatherForecastController.Get (MunicipalityService.Api)"'
+2020-10-28 03:08:50.750 +05:30 [Information] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+2020-10-28 03:08:50.765 +05:30 [Information] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"'
+2020-10-28 03:08:50.859 +05:30 [Information] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"'
+2020-10-28 03:09:53.365 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)"'
+2020-10-28 03:09:55.325 +05:30 [Information] Route matched with "{action = \"DocumentUpload\", controller = \"FileAccess\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult DocumentUpload(MunicipalityService.Models.FileAccessRequest)" on controller "MunicipalityService.Api.Controllers.FileAccessController" ("MunicipalityService.Api").
+2020-10-28 03:10:40.544 +05:30 [Information] Execution Started - Document Upload
+2020-10-28 03:11:15.697 +05:30 [Information] Execution Ended - Document Upload
+2020-10-28 03:11:15.710 +05:30 [Information] Executing ObjectResult, writing value of type '"System.Boolean"'.
+2020-10-28 03:11:15.711 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)" in 80385.604ms
+2020-10-28 03:11:15.712 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)"'
+2020-10-28 03:12:48.744 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)"'
+2020-10-28 03:12:48.746 +05:30 [Information] Route matched with "{action = \"DocumentUpload\", controller = \"FileAccess\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult DocumentUpload(MunicipalityService.Models.FileAccessRequest)" on controller "MunicipalityService.Api.Controllers.FileAccessController" ("MunicipalityService.Api").
+2020-10-28 03:12:48.763 +05:30 [Information] Execution Started - Document Upload
+2020-10-28 03:12:49.115 +05:30 [Information] Execution Ended - Document Upload
+2020-10-28 03:12:49.115 +05:30 [Information] Executing ObjectResult, writing value of type '"System.Boolean"'.
+2020-10-28 03:12:49.116 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)" in 363.4139ms
+2020-10-28 03:12:49.133 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)"'
+2020-10-28 03:13:22.987 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.TaxController.Get (MunicipalityService.Api)"'
+2020-10-28 03:13:22.994 +05:30 [Information] Route matched with "{action = \"Get\", controller = \"Tax\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "MunicipalityService.Api.Controllers.TaxController" ("MunicipalityService.Api").
+2020-10-28 03:13:31.883 +05:30 [Information] Execution Started - GetMunicipality
+2020-10-28 03:13:32.285 +05:30 [Information] Execution Ended - GetMunicipality
+2020-10-28 03:13:32.286 +05:30 [Information] Executing ObjectResult, writing value of type '"System.Collections.Generic.List`1[[MunicipalityService.Models.Municipality, MunicipalityService.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+2020-10-28 03:13:32.332 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.TaxController.Get (MunicipalityService.Api)" in 9337.4132ms
+2020-10-28 03:13:32.332 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.TaxController.Get (MunicipalityService.Api)"'
+2020-10-28 03:14:50.859 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.TaxController.Get (MunicipalityService.Api)"'
+2020-10-28 03:14:50.864 +05:30 [Information] Route matched with "{action = \"Get\", controller = \"Tax\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "MunicipalityService.Api.Controllers.TaxController" ("MunicipalityService.Api").
+2020-10-28 03:15:15.290 +05:30 [Information] Execution Started - GetMunicipality
+2020-10-28 03:15:15.516 +05:30 [Information] Execution Ended - GetMunicipality
+2020-10-28 03:15:15.517 +05:30 [Information] Executing ObjectResult, writing value of type '"System.Collections.Generic.List`1[[MunicipalityService.Models.Municipality, MunicipalityService.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+2020-10-28 03:15:15.522 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.TaxController.Get (MunicipalityService.Api)" in 24656.8263ms
+2020-10-28 03:15:15.522 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.TaxController.Get (MunicipalityService.Api)"'
+2020-10-28 03:16:16.357 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.TaxController.GetMunicipality (MunicipalityService.Api)"'
+2020-10-28 03:16:16.379 +05:30 [Information] Route matched with "{action = \"GetMunicipality\", controller = \"Tax\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetMunicipality(MunicipalityService.Models.Municipality)" on controller "MunicipalityService.Api.Controllers.TaxController" ("MunicipalityService.Api").
+2020-10-28 03:16:16.739 +05:30 [Information] Execution Started - GetMunicipality Search API
+2020-10-28 03:16:17.442 +05:30 [Information] Execution Ended - GetMunicipality Search API
+2020-10-28 03:16:17.443 +05:30 [Information] Executing ObjectResult, writing value of type '"MunicipalityService.Models.Municipality"'.
+2020-10-28 03:16:17.445 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.TaxController.GetMunicipality (MunicipalityService.Api)" in 1064.4844ms
+2020-10-28 03:16:17.445 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.TaxController.GetMunicipality (MunicipalityService.Api)"'
+2020-10-28 03:16:55.192 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.TaxController.GetMunicipality (MunicipalityService.Api)"'
+2020-10-28 03:16:55.192 +05:30 [Information] Route matched with "{action = \"GetMunicipality\", controller = \"Tax\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetMunicipality(MunicipalityService.Models.Municipality)" on controller "MunicipalityService.Api.Controllers.TaxController" ("MunicipalityService.Api").
+2020-10-28 03:16:55.194 +05:30 [Information] Execution Started - GetMunicipality Search API
+2020-10-28 03:16:55.315 +05:30 [Information] Execution Ended - GetMunicipality Search API
+2020-10-28 03:16:55.316 +05:30 [Information] Executing ObjectResult, writing value of type '"MunicipalityService.Models.Municipality"'.
+2020-10-28 03:16:55.317 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.TaxController.GetMunicipality (MunicipalityService.Api)" in 124.5916ms
+2020-10-28 03:16:55.318 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.TaxController.GetMunicipality (MunicipalityService.Api)"'
+2020-10-28 03:17:27.281 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.TaxController.GetMunicipality (MunicipalityService.Api)"'
+2020-10-28 03:17:27.282 +05:30 [Information] Route matched with "{action = \"GetMunicipality\", controller = \"Tax\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetMunicipality(MunicipalityService.Models.Municipality)" on controller "MunicipalityService.Api.Controllers.TaxController" ("MunicipalityService.Api").
+2020-10-28 03:17:33.632 +05:30 [Information] Execution Started - GetMunicipality Search API
+2020-10-28 03:18:19.616 +05:30 [Information] Execution Ended - GetMunicipality Search API
+2020-10-28 03:18:19.621 +05:30 [Information] Executing ObjectResult, writing value of type '"MunicipalityService.Models.Municipality"'.
+2020-10-28 03:18:19.626 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.TaxController.GetMunicipality (MunicipalityService.Api)" in 52344.0891ms
+2020-10-28 03:18:19.626 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.TaxController.GetMunicipality (MunicipalityService.Api)"'
+2020-10-28 03:20:46.075 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.TaxController.Save (MunicipalityService.Api)"'
+2020-10-28 03:20:46.108 +05:30 [Information] Route matched with "{action = \"Save\", controller = \"Tax\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Save(MunicipalityService.Models.Municipality)" on controller "MunicipalityService.Api.Controllers.TaxController" ("MunicipalityService.Api").
+2020-10-28 03:20:46.110 +05:30 [Information] Execution Started - Save Municipality Details
+2020-10-28 03:20:46.559 +05:30 [Information] Execution Ended - Save Municipality Details
+2020-10-28 03:20:46.559 +05:30 [Information] Executing ObjectResult, writing value of type '"System.Boolean"'.
+2020-10-28 03:20:46.561 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.TaxController.Save (MunicipalityService.Api)" in 452.7334ms
+2020-10-28 03:20:46.561 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.TaxController.Save (MunicipalityService.Api)"'
+2020-10-28 03:22:20.204 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.TaxController.GetMunicipality (MunicipalityService.Api)"'
+2020-10-28 03:22:20.205 +05:30 [Information] Route matched with "{action = \"GetMunicipality\", controller = \"Tax\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetMunicipality(MunicipalityService.Models.Municipality)" on controller "MunicipalityService.Api.Controllers.TaxController" ("MunicipalityService.Api").
+2020-10-28 03:22:23.378 +05:30 [Information] Execution Started - GetMunicipality Search API
+2020-10-28 03:22:23.477 +05:30 [Information] Execution Ended - GetMunicipality Search API
+2020-10-28 03:22:23.478 +05:30 [Information] Executing ObjectResult, writing value of type '"MunicipalityService.Models.Municipality"'.
+2020-10-28 03:22:23.479 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.TaxController.GetMunicipality (MunicipalityService.Api)" in 3273.6957ms
+2020-10-28 03:22:23.480 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.TaxController.GetMunicipality (MunicipalityService.Api)"'
+2020-10-28 03:24:05.558 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.TaxController.Get (MunicipalityService.Api)"'
+2020-10-28 03:24:05.565 +05:30 [Information] Route matched with "{action = \"Get\", controller = \"Tax\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "MunicipalityService.Api.Controllers.TaxController" ("MunicipalityService.Api").
+2020-10-28 03:24:09.649 +05:30 [Information] Execution Started - GetMunicipality
+2020-10-28 03:24:11.613 +05:30 [Information] Execution Ended - GetMunicipality
+2020-10-28 03:24:11.614 +05:30 [Information] Executing ObjectResult, writing value of type '"System.Collections.Generic.List`1[[MunicipalityService.Models.Municipality, MunicipalityService.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+2020-10-28 03:24:12.316 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.TaxController.Get (MunicipalityService.Api)" in 6751.3012ms
+2020-10-28 03:24:12.317 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.TaxController.Get (MunicipalityService.Api)"'
+2020-10-28 03:24:36.826 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.TaxController.GetMunicipality (MunicipalityService.Api)"'
+2020-10-28 03:24:36.827 +05:30 [Information] Route matched with "{action = \"GetMunicipality\", controller = \"Tax\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetMunicipality(MunicipalityService.Models.Municipality)" on controller "MunicipalityService.Api.Controllers.TaxController" ("MunicipalityService.Api").
+2020-10-28 03:24:39.408 +05:30 [Information] Execution Started - GetMunicipality Search API
+2020-10-28 03:24:40.024 +05:30 [Information] Execution Ended - GetMunicipality Search API
+2020-10-28 03:24:40.024 +05:30 [Information] Executing ObjectResult, writing value of type '"MunicipalityService.Models.Municipality"'.
+2020-10-28 03:24:40.074 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.TaxController.GetMunicipality (MunicipalityService.Api)" in 3246.8161ms
+2020-10-28 03:24:40.074 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.TaxController.GetMunicipality (MunicipalityService.Api)"'
+2020-10-28 03:26:26.935 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.TaxController.Put (MunicipalityService.Api)"'
+2020-10-28 03:26:27.010 +05:30 [Information] Route matched with "{action = \"Put\", controller = \"Tax\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Put(MunicipalityService.Models.Municipality)" on controller "MunicipalityService.Api.Controllers.TaxController" ("MunicipalityService.Api").
+2020-10-28 03:26:27.684 +05:30 [Information] Execution Started - Update Municipality Details
+2020-10-28 03:26:30.858 +05:30 [Information] Execution Ended - Update Municipality Details
+2020-10-28 03:26:30.859 +05:30 [Information] Executing ObjectResult, writing value of type '"System.Boolean"'.
+2020-10-28 03:26:30.861 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.TaxController.Put (MunicipalityService.Api)" in 3850.6892ms
+2020-10-28 03:26:30.861 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.TaxController.Put (MunicipalityService.Api)"'
+2020-10-28 11:49:15.524 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.WeatherForecastController.Get (MunicipalityService.Api)"'
+2020-10-28 11:49:16.007 +05:30 [Information] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[MunicipalityService.Api.WeatherForecast] Get()" on controller "MunicipalityService.Api.Controllers.WeatherForecastController" ("MunicipalityService.Api").
+2020-10-28 11:49:16.087 +05:30 [Information] Executing ObjectResult, writing value of type '"MunicipalityService.Api.WeatherForecast[]"'.
+2020-10-28 11:49:16.575 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.WeatherForecastController.Get (MunicipalityService.Api)" in 501.1752ms
+2020-10-28 11:49:16.610 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.WeatherForecastController.Get (MunicipalityService.Api)"'
+2020-10-28 11:49:28.453 +05:30 [Information] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"'
+2020-10-28 11:49:28.453 +05:30 [Information] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"'
+2020-10-28 11:49:28.457 +05:30 [Information] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+2020-10-28 11:59:30.766 +05:30 [Information] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"'
+2020-10-28 11:59:30.767 +05:30 [Information] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+2020-10-28 11:59:30.836 +05:30 [Information] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"'
+2020-10-28 12:04:01.598 +05:30 [Warning] Failed to determine the https port for redirect.
+2020-10-28 12:04:02.725 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.WeatherForecastController.Get (MunicipalityService.Api)"'
+2020-10-28 12:04:04.096 +05:30 [Information] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[MunicipalityService.Api.WeatherForecast] Get()" on controller "MunicipalityService.Api.Controllers.WeatherForecastController" ("MunicipalityService.Api").
+2020-10-28 12:04:04.537 +05:30 [Information] Executing ObjectResult, writing value of type '"MunicipalityService.Api.WeatherForecast[]"'.
+2020-10-28 12:04:06.958 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.WeatherForecastController.Get (MunicipalityService.Api)" in 2499.1126ms
+2020-10-28 12:04:07.024 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.WeatherForecastController.Get (MunicipalityService.Api)"'
+2020-10-28 12:05:37.885 +05:30 [Information] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+2020-10-28 12:05:37.890 +05:30 [Information] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"'
+2020-10-28 12:05:37.968 +05:30 [Information] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"'
+2020-10-28 12:05:40.203 +05:30 [Information] Sending file. Request path: '"/favicon-32x32.png"'. Physical path: '"N/A"'
+2020-10-28 12:07:26.887 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)"'
+2020-10-28 12:07:27.552 +05:30 [Information] Route matched with "{action = \"DocumentUpload\", controller = \"FileAccess\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult DocumentUpload(MunicipalityService.Models.FileAccessRequest)" on controller "MunicipalityService.Api.Controllers.FileAccessController" ("MunicipalityService.Api").
+2020-10-28 12:07:53.851 +05:30 [Information] Execution Started - Document Upload
+2020-10-28 12:08:18.082 +05:30 [Information] Execution Ended - Document Upload
+2020-10-28 12:08:18.106 +05:30 [Information] Executing ObjectResult, writing value of type '"System.Boolean"'.
+2020-10-28 12:08:18.107 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)" in 50554.9099ms
+2020-10-28 12:08:18.107 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)"'
+2020-10-28 12:10:14.145 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.TaxController.GetTaxDetails (MunicipalityService.Api)"'
+2020-10-28 12:10:14.154 +05:30 [Information] Route matched with "{action = \"GetTaxDetails\", controller = \"Tax\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetTaxDetails(MunicipalityService.Models.Municipality)" on controller "MunicipalityService.Api.Controllers.TaxController" ("MunicipalityService.Api").
+2020-10-28 12:10:14.296 +05:30 [Information] Execution Started - GetTaxDetails Search API
+2020-10-28 12:10:16.909 +05:30 [Information] Execution Ended - GetTaxDetails Search API
+2020-10-28 12:10:16.911 +05:30 [Information] Executing ObjectResult, writing value of type '"MunicipalityService.Models.Municipality"'.
+2020-10-28 12:10:16.915 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.TaxController.GetTaxDetails (MunicipalityService.Api)" in 2759.6313ms
+2020-10-28 12:10:16.915 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.TaxController.GetTaxDetails (MunicipalityService.Api)"'
+2020-10-28 12:14:19.428 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.TaxController.Save (MunicipalityService.Api)"'
+2020-10-28 12:14:19.433 +05:30 [Information] Route matched with "{action = \"Save\", controller = \"Tax\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Save(MunicipalityService.Models.Municipality)" on controller "MunicipalityService.Api.Controllers.TaxController" ("MunicipalityService.Api").
+2020-10-28 12:14:19.445 +05:30 [Information] Execution Started - Save Tax Details
+2020-10-28 12:14:22.569 +05:30 [Information] Execution Ended - Save Tax Details
+2020-10-28 12:14:22.570 +05:30 [Information] Executing ObjectResult, writing value of type '"System.Boolean"'.
+2020-10-28 12:14:22.571 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.TaxController.Save (MunicipalityService.Api)" in 3138.3274ms
+2020-10-28 12:14:22.572 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.TaxController.Save (MunicipalityService.Api)"'
+2020-10-28 12:35:32.967 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)"'
+2020-10-28 12:35:34.137 +05:30 [Information] Route matched with "{action = \"DocumentUpload\", controller = \"FileAccess\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult DocumentUpload(MunicipalityService.Models.FileAccessRequest)" on controller "MunicipalityService.Api.Controllers.FileAccessController" ("MunicipalityService.Api").
+2020-10-28 12:35:37.683 +05:30 [Information] Execution Started - Document Upload
+2020-10-28 12:35:50.852 +05:30 [Information] Execution Ended - Document Upload
+2020-10-28 12:35:50.979 +05:30 [Information] Executing ObjectResult, writing value of type '"System.Boolean"'.
+2020-10-28 12:35:51.764 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)" in 17530.3732ms
+2020-10-28 12:35:51.997 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)"'
+2020-10-28 12:36:26.340 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.TaxController.GetTaxDetails (MunicipalityService.Api)"'
+2020-10-28 12:36:26.341 +05:30 [Information] Route matched with "{action = \"GetTaxDetails\", controller = \"Tax\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult GetTaxDetails(MunicipalityService.Models.Municipality)" on controller "MunicipalityService.Api.Controllers.TaxController" ("MunicipalityService.Api").
+2020-10-28 12:36:26.823 +05:30 [Information] Execution Started - GetTaxDetails Search API
+2020-10-28 12:36:27.852 +05:30 [Information] Execution Ended - GetTaxDetails Search API
+2020-10-28 12:36:27.853 +05:30 [Information] Executing ObjectResult, writing value of type '"MunicipalityService.Models.Municipality"'.
+2020-10-28 12:36:27.921 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.TaxController.GetTaxDetails (MunicipalityService.Api)" in 1579.65ms
+2020-10-28 12:36:27.922 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.TaxController.GetTaxDetails (MunicipalityService.Api)"'
+2020-10-28 12:37:23.255 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.TaxController.Save (MunicipalityService.Api)"'
+2020-10-28 12:37:23.256 +05:30 [Information] Route matched with "{action = \"Save\", controller = \"Tax\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Save(MunicipalityService.Models.Municipality)" on controller "MunicipalityService.Api.Controllers.TaxController" ("MunicipalityService.Api").
+2020-10-28 12:37:23.323 +05:30 [Information] Execution Started - Save Tax Details
+2020-10-28 12:37:26.632 +05:30 [Information] Execution Ended - Save Tax Details
+2020-10-28 12:37:26.634 +05:30 [Information] Executing ObjectResult, writing value of type '"System.Boolean"'.
+2020-10-28 12:37:26.671 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.TaxController.Save (MunicipalityService.Api)" in 3396.5705ms
+2020-10-28 12:37:26.672 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.TaxController.Save (MunicipalityService.Api)"'
+2020-10-28 12:38:09.775 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.TaxController.Put (MunicipalityService.Api)"'
+2020-10-28 12:38:10.213 +05:30 [Information] Route matched with "{action = \"Put\", controller = \"Tax\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Put(MunicipalityService.Models.Municipality)" on controller "MunicipalityService.Api.Controllers.TaxController" ("MunicipalityService.Api").
+2020-10-28 12:38:10.274 +05:30 [Information] Execution Started - Update Tax Details
+2020-10-28 12:38:12.400 +05:30 [Information] Execution Ended - Update Tax Details
+2020-10-28 12:38:12.401 +05:30 [Information] Executing ObjectResult, writing value of type '"System.Boolean"'.
+2020-10-28 12:38:12.455 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.TaxController.Put (MunicipalityService.Api)" in 2241.8994ms
+2020-10-28 12:38:12.455 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.TaxController.Put (MunicipalityService.Api)"'
+2020-10-28 12:38:12.697 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.TaxController.Get (MunicipalityService.Api)"'
+2020-10-28 12:38:12.718 +05:30 [Information] Route matched with "{action = \"Get\", controller = \"Tax\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "MunicipalityService.Api.Controllers.TaxController" ("MunicipalityService.Api").
+2020-10-28 12:38:12.719 +05:30 [Information] Execution Started - GetALLTaxDetails
+2020-10-28 12:38:12.848 +05:30 [Information] Execution Ended - GetALLTaxDetails
+2020-10-28 12:38:12.848 +05:30 [Information] Executing ObjectResult, writing value of type '"System.Collections.Generic.List`1[[MunicipalityService.Models.Municipality, MunicipalityService.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+2020-10-28 12:38:12.972 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.TaxController.Get (MunicipalityService.Api)" in 254.1333ms
+2020-10-28 12:38:12.972 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.TaxController.Get (MunicipalityService.Api)"'
+2020-10-28 12:44:45.780 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)"'
+2020-10-28 12:44:47.161 +05:30 [Information] Route matched with "{action = \"DocumentUpload\", controller = \"FileAccess\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult DocumentUpload(MunicipalityService.Models.FileAccessRequest)" on controller "MunicipalityService.Api.Controllers.FileAccessController" ("MunicipalityService.Api").
+2020-10-28 12:44:51.241 +05:30 [Information] Execution Started - Document Upload
