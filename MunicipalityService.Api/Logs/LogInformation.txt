@@ -197,3 +197,12 @@
 2020-10-28 12:44:45.780 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)"'
 2020-10-28 12:44:47.161 +05:30 [Information] Route matched with "{action = \"DocumentUpload\", controller = \"FileAccess\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult DocumentUpload(MunicipalityService.Models.FileAccessRequest)" on controller "MunicipalityService.Api.Controllers.FileAccessController" ("MunicipalityService.Api").
 2020-10-28 12:44:51.241 +05:30 [Information] Execution Started - Document Upload
+2020-10-30 21:47:07.735 +05:30 [Warning] Failed to determine the https port for redirect.
+2020-10-30 21:47:08.565 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.WeatherForecastController.Get (MunicipalityService.Api)"'
+2020-10-30 21:47:09.216 +05:30 [Information] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[MunicipalityService.Api.WeatherForecast] Get()" on controller "MunicipalityService.Api.Controllers.WeatherForecastController" ("MunicipalityService.Api").
+2020-10-30 21:47:09.508 +05:30 [Information] Executing ObjectResult, writing value of type '"MunicipalityService.Api.WeatherForecast[]"'.
+2020-10-30 21:47:12.212 +05:30 [Information] Executed action "MunicipalityService.Api.Controllers.WeatherForecastController.Get (MunicipalityService.Api)" in 2905.0417ms
+2020-10-30 21:47:12.242 +05:30 [Information] Executed endpoint '"MunicipalityService.Api.Controllers.WeatherForecastController.Get (MunicipalityService.Api)"'
+2020-10-30 21:53:44.932 +05:30 [Information] Executing endpoint '"MunicipalityService.Api.Controllers.FileAccessController.DocumentUpload (MunicipalityService.Api)"'
+2020-10-30 21:53:49.817 +05:30 [Information] Route matched with "{action = \"DocumentUpload\", controller = \"FileAccess\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult DocumentUpload(MunicipalityService.Models.FileAccessRequest)" on controller "MunicipalityService.Api.Controllers.FileAccessController" ("MunicipalityService.Api").
+2020-10-30 21:54:37.679 +05:30 [Information] Execution Started - Document Upload

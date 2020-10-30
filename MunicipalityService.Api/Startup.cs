@@ -29,20 +29,14 @@ namespace MunicipalityService.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddTransient<IFileAccessManager, FileAcessManager>();
-            services.AddTransient(typeof(IFileAccessManager), typeof(FileAcessManager));
+            services.AddTransient<IFileAccessManager, FileAcessManager>();      
+            services.AddTransient<ITaxManager, TaxManager>();            
+                
+            services.AddTransient<ITaxDataAccess, TaxDataAccess>();           
 
-            services.AddTransient<ITaxManager, TaxManager>();
-            services.AddTransient(typeof(ITaxManager), typeof(TaxManager));
-                        
-            services.AddTransient<ITaxDataAccess, TaxDataAccess>();
-            services.AddTransient(typeof(ITaxDataAccess), typeof(TaxDataAccess));
-
-            services.AddTransient<IFileAccessDataAccess, FileAccessDataAccess>();
-            services.AddTransient(typeof(IFileAccessDataAccess), typeof(FileAccessDataAccess));
+            services.AddTransient<IFileAccessDataAccess, FileAccessDataAccess>();           
             
-            services.AddTransient<IFileProcessor, FileProcessor>();
-            services.AddTransient(typeof(IFileProcessor), typeof(FileProcessor));
+            services.AddTransient<IFileProcessor, FileProcessor>();           
 
             services.AddScoped<ValidateModelStateAttribute>();
             
